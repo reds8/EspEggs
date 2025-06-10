@@ -1,1 +1,2 @@
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/reds8/EasterNew/refs/heads/main/EasterShopFixed"))()
